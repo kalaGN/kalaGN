@@ -61,11 +61,6 @@ Do not go gentle into that good night!
 ## `~/activity`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalaGN/kalaGN/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/kalaGN/kalaGN/output/github-contribution-grid-snake.svg">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kalaGN&hide_border=true&background=0d1117&stroke=1e2735&ring=8b5cf6&fire=22d3ee&currStreakLabel=c4b5fd&sideLabels=7488a0&dates=7488a0">
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=kalaGN&hide_border=true&background=ffffff&stroke=d0d7de&ring=7c3aed&fire=0891b2&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a" width="495">
 </picture>
@@ -74,7 +69,6 @@ Do not go gentle into that good night!
 
 <div align="center">
 
-<sub>The hero is a hand-placed 5×7 dot matrix — one `<rect>` per lit pixel, gradient fill and a gaussian glow. No image-to-ASCII conversion.
-The snake is rendered nightly by [`.github/workflows/snake.yml`](https://github.com/kalaGN/kalaGN/actions) into the `output` branch.</sub>
+<sub>The hero is a hand-placed 5×7 dot matrix — one `<rect>` per lit pixel, gradient fill and a gaussian glow. No image-to-ASCII conversion.</sub>
 
 </div>
