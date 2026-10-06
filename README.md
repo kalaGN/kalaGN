@@ -48,23 +48,6 @@ Do not go gentle into that good night!
 </td>
 </tr></table>
 
-## `~/projects`
-
-| Project | Stack | What it is |
-| --- | --- | --- |
-| [php7cc](https://github.com/kalaGN/php7cc) | PHP | PHP 7 compatibility checker — the most starred thing here |
-| [agn](https://github.com/kalaGN/agn) | Go | Long-running Go API service, still getting pushes |
-| [baby-feeding-dashboard](https://github.com/kalaGN/baby-feeding-dashboard) | Java | Real-time dashboard — the most recent one |
-| [afw](https://github.com/kalaGN/afw) | PHP | A framework written the only way to learn one: rewrite it |
-| [Donkey](https://github.com/kalaGN/Donkey) | PHP / Swoole | Second-granularity timer daemon |
-
-## `~/activity`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kalaGN&hide_border=true&background=0d1117&stroke=1e2735&ring=8b5cf6&fire=22d3ee&currStreakLabel=c4b5fd&sideLabels=7488a0&dates=7488a0">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=kalaGN&hide_border=true&background=ffffff&stroke=d0d7de&ring=7c3aed&fire=0891b2&currStreakLabel=7c3aed&sideLabels=57606a&dates=57606a" width="495">
-</picture>
-
 ---
 
 <div align="center">
